@@ -60,7 +60,7 @@ end
 
 gem "faker", "~> 3.4"
 
-gem 'bootstrap', '~> 5.1.3'
+gem 'bootstrap', '~> 5.3.3'
 gem 'sassc-rails'
 
 
