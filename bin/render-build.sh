@@ -11,4 +11,6 @@ bundle exec rails assets:clean
 # Uncomment the following line:
 
 # bundle exec rails db:migrate
-#a4a7401937665417cd2dec19fd1a6ac9
+
+#database urk
+#1bd2f5774a38f99a945552154c61eac4
